@@ -1,1 +1,2 @@
-1. Feature 03
+1. Third Feature
+2. Private Feature 04
